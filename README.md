@@ -1,49 +1,30 @@
-![ng-fokus](thumbnail.png)
+# Fokus
 
-# ng-fokus
+## ℹ️ Sobre
 
-A ng-fokus é uma aplicação da ferramenta do método Pomodoro (gestão de tarefas), baseado no funcionamento do site promofocus. O projeto está desenvolvido em Angular 18 com service worker.
+<p>Projeto utilizado no curso para aprendizado das técnicas e melhores práticas.</p>
 
-## 🔨 Funcionalidades do projeto
+## 📘Ementa
 
-O aplicativo permite que os usuários gerenciem suas tarefas utilizando a técnica Pomodoro, ajudando a aumentar a produtividade e a manter o foco.
+### Angular: transformando uma aplicação web em PWA
 
-## ✔️ Técnicas e tecnologias utilizadas
+- Transformar uma aplicação web em uma PWA com Angular
+- Implementar o método Pomodoro em uma aplicação
+- Aprender técnicas para otimizar o desempenho em dispositivos móveis
+- Aprender a utilizar ferramentas do ecossistema Angular
+- Criar de experiências de usuário semelhantes a aplicativos nativos
+- Realizar estruturação de períodos de foco e descanso na aplicação
+- Aprender melhores práticas para desenvolvimento de PWAs
 
-As técnicas e tecnologias utilizadas no projeto são:
+## 🖥️ Tecnologias
 
-- `Angular 18`: framework para construção de aplicações web
-- `Service Worker`: para suporte offline e melhoria de performance  
-- `Componentes Angular`: para modularização e reutilização de código
-- `RxJS`: para programação reativa
-- `TypeScript`: linguagem de programação utilizada no desenvolvimento
+<div>
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white">
+</div>
 
-## 📁 Acesso ao projeto
+## 🧑‍🏫 Instrutor(es)
 
-Você pode [acessar o código fonte do projeto no GitHub](https://github.com/Charlinho/ng-fokus).
-
-## 🛠️ Abrir e rodar o projeto
-
-Para abrir e rodar o projeto, siga os passos abaixo:
-
-1. Clone o repositório do projeto:
-   ```bash
-   git clone https://github.com/Charlinho/ng-fokus.git
-   ```
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd ng-fokus
-   ```
-3. Instale as dependências:
-   ```bash
-   npm install
-   ```
-4. Execute o projeto:
-   ```bash
-   ng serve
-   ```
-5. Abra o navegador e acesse `http://localhost:4200/` para ver a aplicação em execução.
-
-## 📚 Mais informações
-
-Para mais informações sobre o projeto e suas funcionalidades, visite o [repositório no GitHub](https://github.com/Charlinho/ng-fokus).
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/6363198?v=4" width=115><br><sub>Charleston Campos</sub>](https://github.com/Charlinho) |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------: |
